@@ -1,0 +1,209 @@
+{
+  "users": [
+    {
+      "id": "62b8",
+      "fullname": "Om Kumar Chaudhary",
+      "username": "omkumar",
+      "email": "omkumarchaudhary17427@gmail.com",
+      "password": "@Chomulal123",
+      "role": "user"
+    }
+  ],
+  "property": [
+    {
+      "id": "1",
+      "title": "Santorini Apartment",
+      "type": "flat",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301959860.jpg?k=b72a916f69264733b4070a09c1748a612cc50f09a46d240e267ce94b56e4fa3d&o=&hp=1",
+      "description": "Offering a balcony or patio with views of the mountain and city, the units feature air conditioning, a seating area, cable flat-screen TV and kitchen. The apartment complex provides some units that have a safety deposit box, and each unit has a private bathroom and a wardrobe. At the apartment complex, units have bed linen and towels.",
+      "location": "Kathmandu, Nepal",
+      "price": "70000",
+      "amenities": [
+        "Parking",
+        "Wifi",
+        "Ac",
+        "Kitchen",
+        "Water",
+        "Laundry",
+        "Security",
+        "Furnished"
+      ],
+      "status": "booked",
+      "owner": {
+        "name": "",
+        "contactEmail": "",
+        "contactPhone": ""
+      },
+      "details": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "totalArea": " sq ft",
+        "furnished": false
+      }
+    },
+    {
+      "id": "2",
+      "title": "Chomu Apartment",
+      "type": "flat",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/574855704.jpg?k=7c9fa1760ae772be74664cf5e95135db295856935aa55c3ee051f4fce26da505&o=&hp=1",
+      "description": "Offering a balcony or patio with views of the mountain and city, the units feature air conditioning, a seating area, cable flat-screen TV and kitchen. The apartment complex provides some units that have a safety deposit box, and each unit has a private bathroom and a wardrobe. At the apartment complex, units have bed linen and towels.",
+      "location": "Kathmandu, Nepal",
+      "price": "100000",
+      "amenities": [
+        "Parking",
+        "Kitchen"
+      ],
+      "status": "rented",
+      "owner": {
+        "name": "KHOJA",
+        "contactEmail": "contact@khoja.com",
+        "contactPhone": "+977 9898080898"
+      },
+      "details": {
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "totalArea": " sq ft",
+        "furnished": false
+      }
+    },
+    {
+      "id": "3",
+      "title": "Tori Apartment",
+      "type": "Flat",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323075618.jpg?k=ddc0f9433a8f651abf6f606302dd7c44384d3cb4246cc408bd49b41cf3b7a251&o=&hp=1",
+      "description": "Offering a balcony or patio with views of the mountain and city, the units feature air conditioning, a seating area, cable flat-screen TV and kitchen. The apartment complex provides some units that have a safety deposit box, and each unit has a private bathroom and a wardrobe. At the apartment complex, units have bed linen and towels.",
+      "location": "Kathmandu, Nepal",
+      "price": "90000",
+      "amenities": [
+        "Parking",
+        "WiFi",
+        "AC",
+        "Kitchen"
+      ],
+      "status": "available",
+      "owner": {
+        "name": "KHOJA",
+        "description": "Founded in 1996 in Amsterdam, Booking.com has grown from a small Dutch startup to one of the world's leading digital travel companies.",
+        "contactEmail": "contact@khoja.com",
+        "contactPhone": "+977 9898080898"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Lyaama Apartment",
+      "type": "flat",
+      "image": "blob:http://localhost:400/a2d432d4-53bf-4dbf-a6ea-83b0944eb5d7",
+      "description": "Offering a balcony or patio with views of the mountain and city, the units feature air conditioning, a seating area, cable flat-screen TV and kitchen. The apartment complex provides some units that have a safety deposit box, and each unit has a private bathroom and a wardrobe. At the apartment complex, units have bed linen and towels.",
+      "location": "Kathmandu, Nepal",
+      "price": "10000",
+      "amenities": [
+        "Parking",
+        "Wifi",
+        "Kitchen",
+        "Water",
+        "Security"
+      ],
+      "status": "rented",
+      "owner": {
+        "name": "KHOJA",
+        "contactEmail": "contact@khoja.com",
+        "contactPhone": "+977 9898080898"
+      },
+      "details": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "totalArea": " sq ft",
+        "furnished": false
+      }
+    },
+    {
+      "id": "5",
+      "title": "Santorini Apartment",
+      "type": "flat",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284649052.jpg?k=6071ffb0edc25a72d8e983fa4b61784d3d0b0190f7b75f91cc01b042f60e805d&o=&hp=1",
+      "description": "Offering a balcony or patio with views of the mountain and city, the units feature air conditioning, a seating area, cable flat-screen TV and kitchen. The apartment complex provides some units that have a safety deposit box, and each unit has a private bathroom and a wardrobe. At the apartment complex, units have bed linen and towels.",
+      "location": "Kathmandu, Nepal",
+      "price": "7000",
+      "amenities": [],
+      "status": "booked",
+      "owner": {
+        "name": "KHOJA",
+        "contactEmail": "contact@khoja.com",
+        "contactPhone": "+977 9898080898"
+      },
+      "details": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "totalArea": " sq ft",
+        "furnished": false
+      }
+    },
+    {
+      "id": "6",
+      "title": "Yagya Flat Property",
+      "type": "Flat",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519990897.jpg?k=5611f587bc8fb0487fdf7d157c7473712ae517b69dbedbdbb894bfea249edc9a&o=&hp=1",
+      "description": "AC CC",
+      "location": "Sifal, Kathmandu",
+      "price": "175000",
+      "amenities": [
+        "Parking",
+        "WiFi",
+        "AC",
+        "Kitchen"
+      ],
+      "status": "available",
+      "owner": {
+        "name": "KHOJA",
+        "description": "Founded in 1996 in Amsterdam, Booking.com has grown from a small Dutch startup to one of the world's leading digital travel companies.",
+        "contactEmail": "contact@khoja.com",
+        "contactPhone": "+977 9898080898"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Sanu maya",
+      "type": "House",
+      "image": "https://www.bizzbuzz.news/h-upload/2023/11/26/1820713-high-demand-for-luxury-homes-fueled-price-rise-in-west-hyderabad.webp",
+      "description": "asfddfn",
+      "location": "Sifal, Kathmandu",
+      "price": "40000",
+      "amenities": [
+        "Parking",
+        "WiFi",
+        "AC",
+        "Kitchen",
+        "Gym"
+      ],
+      "status": "available",
+      "owner": {
+        "name": "Admin",
+        "description": "hgfnd",
+        "contactEmail": "kohoja@gmai.com",
+        "contactPhone": "+977 9889838737"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Flat",
+      "description": "Apartments and Flats for rent"
+    },
+    {
+      "id": "2",
+      "name": "Room",
+      "description": "Single rooms for rent"
+    },
+    {
+      "id": "3",
+      "name": "House",
+      "description": "Full houses for rent"
+    },
+    {
+      "id": "4",
+      "name": "Land",
+      "description": "Land for rent or sale"
+    }
+  ]
+}
